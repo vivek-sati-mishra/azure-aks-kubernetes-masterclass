@@ -38,7 +38,6 @@ public class UserWebController {
 	UserRepository userRepository;
 
 	
-	private final Logger log = LoggerFactory.getLogger(this.getClass());
 
 	
 	// get Username from security context
